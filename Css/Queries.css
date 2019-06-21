@@ -1,0 +1,29 @@
+@media screen and (max-width:1200px){
+
+.menu-link {
+  font-size: 18px;
+}
+.footer-txt {
+  font-size: 18px;
+}
+.footer-btn{
+  font-size: 17px;
+}
+}
+
+@media screen and (max-width:991px){
+
+}
+
+@media screen and (max-width:680px){
+
+
+}
+
+@media screen and (max-width:640px){
+
+}
+
+@media screen and (max-width:465px){
+
+}
